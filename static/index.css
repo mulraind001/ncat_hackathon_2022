@@ -1,0 +1,19 @@
+/* Define a couple Amazon font families */
+/* You are free to use these throughout your landing page - here at Amazon we use similar fonts for all our UI */
+@font-face {
+    font-family: 'Amazon-Ember-Rg';
+    src: url('fonts/amazon_ember_condensed/AmazonEmberCdRC_Rg.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Amazon-Ember-Bd';
+    src: url('fonts/amazon_ember_condensed/AmazonEmberCdRC_Bd.ttf') format('truetype');
+}
+
+/* Implement whatever other styling you want here */
+
+/* EXAMPLE - style all the "h2" tag elements a certain way */
+h2 {
+    font-family: 'Amazon-Ember-Bd';
+    color: #00A8E1;
+    font-size: 36px;
+}
