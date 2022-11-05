@@ -25,3 +25,12 @@ h1 {
     width: 50%;
     text-align: center;
 }
+
+span.b {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 6px;
+    border: 1px solid blue;
+    background-color: white;
+}
